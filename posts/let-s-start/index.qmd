@@ -1,0 +1,10 @@
+---
+title: "Let's Start!"
+author: "Filippo Cavallari"
+date: "2024-09-05"
+categories: [news]
+---
+
+Welcome!
+
+![](thumbnail.jpg)

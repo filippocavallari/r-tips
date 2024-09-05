@@ -1,5 +1,5 @@
 ---
-title: "R-tips"
+title: "R Tips"
 listing:
   contents: posts
   sort: "date desc"
