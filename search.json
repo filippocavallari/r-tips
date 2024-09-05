@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Some code",
+    "section": "",
+    "text": "Some code\n2 + 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R-tips",
+    "section": "",
+    "text": "Let’s Start!\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 5, 2024\n\n\nFilippo Cavallari\n\n\n\n\n\n\n  \n\n\n\n\nSome code\n\n\n\n\n\n\n\ncode\n\n\n\n\n\n\n\n\n\n\n\nSep 5, 2024\n\n\nFilippo Cavallari\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/let-s-start/index.html",
+    "href": "posts/let-s-start/index.html",
+    "title": "Let’s Start!",
+    "section": "",
+    "text": "Welcome!"
+  }
+]
